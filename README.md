@@ -6,7 +6,7 @@ I tried to observed `Adapter Design pattern` and `SOLID principles`.
 
 ## Brief of Solution
 
-<a href="https://travis-ci.org/laravel/framework"><img src="https://raw.githubusercontent.com/masoudjahromi/lookup-phone-number/master/lookup-phone-number.svg?sanitize=true&raw=true" alt="my solution"></a>
+<a href="https://raw.githubusercontent.com/masoudjahromi/lookup-phone-number/master/lookup-phone-number.svg?sanitize=true&raw=true"><img src="https://raw.githubusercontent.com/masoudjahromi/lookup-phone-number/master/lookup-phone-number.svg?sanitize=true&raw=true" alt="my solution"></a>
 
 ## Challenge
 
